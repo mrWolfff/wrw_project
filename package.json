@@ -1,0 +1,22 @@
+{
+  "name": "main",
+  "version": "0.0.1",
+  "description": "Starting a new project for WRW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrWolfff/wrw_project.git"
+  },
+  "keywords": [
+    "WRW"
+  ],
+  "author": "lucas.wolf",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mrWolfff/wrw_project/issues"
+  },
+  "homepage": "https://github.com/mrWolfff/wrw_project#readme"
+}
